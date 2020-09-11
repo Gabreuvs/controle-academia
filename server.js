@@ -5,11 +5,11 @@ const routes = require("./routes")
 
 const server = express()
 
-server.use(express.static('public'))
+server.use(express.static(__dirname + '/public'))
 
 server.use(routes)
 
-server.set("view engine", "html", "njk")
+server.set("view engine", "njk")
 
 nunjucks.configure("views", {
     express: server,
