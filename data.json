@@ -1,0 +1,26 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "www.google.com",
+      "name": "Gabriel ",
+      "birth": "1998-03-03",
+      "gender": "M",
+      "services": "Faço tudo por dinheiro"
+    },
+    {
+      "avatar_url": "www.facebook.com",
+      "name": "Gabrielazinha",
+      "birth": "1996-02-23",
+      "gender": "F",
+      "services": "Area mental"
+    },
+    {
+      "avatar_url": "www.instagram.com",
+      "name": "Alexandra",
+      "birth": "1111-11-11",
+      "gender": "F",
+      "services": "Nada",
+      "created_at": 1606002915071
+    }
+  ]
+}
